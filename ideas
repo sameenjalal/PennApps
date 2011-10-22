@@ -1,0 +1,79 @@
+subreddit nodejs chat.
+
+CS course wiki for USACS
+
+Twitter visualization.
+
+Venmo - Payments integration
+DuckDuckGo - Searching. Google without tracking
+Google - Searching. Google with tracking
+OpenDataPhilly - Azavea - hacks GeoData.
+	- catalogue of APIs.
+	- opens up data in Philly
+	- Random Hacks of Kindness.
+	- Color gradient of Google maps.
+	- Real time indexing and streaming of data.
+
+Cloudmine
+ 	- building mobile apps.
+	- team@cloudmine.me
+	- http://github.com/cloudmine
+	- Beta Code: cloudmine<3pennapps
+	- Backend for storing data.
+	- Last.fm, Foursquare and Hunch - give you recommendations on local bands, or events & concerts you wouldn't know about.
+
+Mashery - API Management Company
+	- Manage APIs of companies like Netflix, Cloud, Bestbuy, New York Times, USA Today.
+	- I/O Docs.
+	- http://developer.mashery.com/api
+
+Twitter - Let's work there
+	- klinger, jordanekay onesnowclimbler.
+	- Timelines = arrays of tweet ids.
+	- Tweets have a ton of data
+		* which user tweeted at whom.
+		* Geo data.
+	- dev.twitter.com
+	- Authenticating
+		* Some APIs don't require authentication.
+		* Some require OAuth
+	- twurl
+
+Mongo - IS AWESOME!
+
+Penn Course Review
+	- Gives you difficulty ratings and a bunch more information on Penn classes.
+Rate my Professor Ratings??
+
+tagstands
+	- Some sort of a QR code.
+	- Tap your phone against a bottle and an action happens.
+
+Aviary
+	- Photo-editing tools. 
+	- developer.aviary.com
+	- Mobile API
+
+Bump
+	- bump two phones together.
+	- Free App + API
+	- to see what your kids will look like.
+	- HIRING!
+
+Tumblr
+	- is cool.
+	- Data Visualization?
+	
+Microsoft
+	- Windows Phone
+	- Bing Maps
+	- Visual Studio
+
+Hunch
+	- PennApps Hackstravaganza
+	- Recommendation Engine.
+	- http://bit.ly/hunchpennapps
+	- Bejamin Gleitzman
+
+Twilio
+	- How does the new client works.

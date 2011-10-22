@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pennapps/!svn/ver/29/trendtv/data_analysis/twitter
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/LICENSE
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/__init__.py
+END
+get_access_token.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/get_access_token.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/setup.py
+END
+twitter_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/twitter_test.py
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/COPYING
+END
+t.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/t.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/README
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pennapps/!svn/ver/27/trendtv/data_analysis/twitter/setup.cfg
+END
